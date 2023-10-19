@@ -1,6 +1,7 @@
 # Notes-app
 Created a php notes website with the help of php 
 You can add notes , Edit notes and Delete that notes. 
+
 Backend = MySql
 
 # To run this web app in your pc
